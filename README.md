@@ -8,6 +8,7 @@ A JavaFX-based visual adaptation of the classic text adventure Hunt the Wumpus. 
 
 ## Table of Contents
 - [Overview](#overview)
+- [Awards](#awards)
 - [Key Features](#key-features)
 - [Game Content](#game-content)
 - [How It Works](#how-it-works)
@@ -16,7 +17,6 @@ A JavaFX-based visual adaptation of the classic text adventure Hunt the Wumpus. 
 - [Getting Started](#getting-started)
 - [Build and Run](#build-and-run)
 - [Testing](#testing)
-- [Awards](#awards)
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
@@ -25,6 +25,9 @@ A JavaFX-based visual adaptation of the classic text adventure Hunt the Wumpus. 
 Wampus is a scalable, JavaFX-based GUI game developed for Microsoft’s annual Hunt the Wumpus Competition (a high school game design contest). It modernizes the original text-based mechanics into an interactive, visually navigable cave system composed of hexagonal rooms.
 
 The game loads cave layouts and gameplay data from CSV files, supports smooth navigation, and visually indicates valid moves, hazards, and player position. It applies object-oriented principles to keep cave generation, gameplay logic, UI, trivia, and currency modular and extensible.
+
+## Awards
+- Microsoft’s People’s Choice Award — Microsoft’s annual Hunt the Wumpus Competition (high school game design).
 
 ## Key Features
 - JavaFX UI with CSS styling for a responsive, modern interface.
@@ -161,9 +164,6 @@ Note: If using JavaFX modules directly, ensure your Maven `pom.xml` includes Jav
 mvnw.cmd test
 ```
 
-## Awards
-- Microsoft’s People’s Choice Award — Microsoft’s annual Hunt the Wumpus Competition (high school game design).
-
 ## Contributing
 Contributions are welcome!
 1. Fork the repository.
@@ -181,8 +181,6 @@ Please follow conventional commit messages when possible (`feat:`, `fix:`, `docs
 No license information is currently provided. If you plan to use or distribute this code, please add an appropriate open-source license (e.g., MIT, Apache-2.0) or clarify usage terms.
 
 ## Contact
-Co-Creater: [vib-s](https://github.com/vib-s)
-Co-Creater: [NeelBalani](https://github.com/NeelBalani)
-Co-Creater: [pranavmullakkal](https://github.com/pranavmullakkal)
+Co-Creaters: [vib-s](https://github.com/vib-s), [NeelBalani](https://github.com/NeelBalani), [pranavmullakkal](https://github.com/pranavmullakkal)
 
 For questions or suggestions, please open an issue in the repository.
